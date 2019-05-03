@@ -6,7 +6,7 @@ pupil_data.csv.zip: Contains sample report extracted from Eyelink (R) 1000 at fr
 **Study design**:</br>
 Participants view face images for 6 blocks and perform a remember-know-new (RKN) recognition task in the last 3 blocks.
 
-3 Sets of 60 images each</br>
+3 Sets of 60 images each. Each image is shown on the screen for 3 seconds.</br>
 Study blocks 1-2 (60 trials in each block): Set A presented twice</br>
 Study blocks 3-5 (40 trials in each block): Set A presented for the 3rd time, Set B presented once</br>
 Study block 6 (60 trials): Set B presented once</br>
