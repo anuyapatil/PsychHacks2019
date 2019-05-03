@@ -6,11 +6,12 @@ pupil_data.csv.zip: Contains sample report extracted from Eyelink (R) 1000 at fr
 **Study design**:</br>
 Participants view face images for 6 blocks and perform a remember-know-new (RKN) recognition task in the last 3 blocks.
 
-Study blocks 1-2 (60 trials in each block): Exposure-I (60 face images presented twice)<br/>
-Study blocks 3-5 (40 trials in each block): Indirect Test (60 face images from Exposure-I presented for the 3rd time and 60 new face images presented once)<br/>
-Study block 6 (60 trials): Exposure-II (60 face images that were presented for the first time in Block 3-5, presented once again)<br/>
+3 Sets of 60 images each</br>
+Study blocks 1-2 (60 trials in each block): Set A presented twice</br>
+Study blocks 3-5 (40 trials in each block): Set A presented for the 3rd time, Set B presented once</br>
+Study block 6 (60 trials): Set B presented once</br>
+Test blocks 1-3 (40 trials in each block): Set B presented for the 3rd time, Set C presented once</br>
 
-Test blocks 1-3 (40 trials in each block): Direct Test (60 face images from Exposure-II that were presented twice before and 60 new face images presented once)<br/>
 
 ## Variables:<br/>
 ```
